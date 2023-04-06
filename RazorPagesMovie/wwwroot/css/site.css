@@ -1,0 +1,23 @@
+html {
+  font-size: 15px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: ;
+
+}
+.page-background-class {
+    background-image: url(../images/mirror.png)
+}
